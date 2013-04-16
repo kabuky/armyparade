@@ -1,4 +1,41 @@
 1. Ground Troop
-	a. Corazzieri
+	a. Commander marching on topless car escorted by motocyclist
+	b. Corazzieri
+	c.  Connaught Rangers, 
+	d. 
 
-2. Armored
+2. Armored:
+	a. Tank
+	b. Missile Launcher
+
+3. Air Force:
+	a. Chinhook carrying national flags:
+		- USA
+		- Singapore
+		- Korea
+		- UK
+		- Japan
+		- Australia
+		- Taiwain
+		- China
+		- Hong Kong
+		- Germany
+		- Spain
+		- France
+		- Malaysia
+		- Canada
+	
+	b. Cobra helicopter.
+	c. F35 Hornet Jet Fighter.
+	d. B2 Spirit Bomber.
+	e. Airshop painted with national flag.
+	
+4. Flag Pole:
+
+5. Background:
+	a. Marching area for ground force is 60% of the whole screen.
+	b. Marching area for air force is 40% of the whole screen.
+
+6. Icon
+7. Promotion banner:
+	a. Feature all the units.
